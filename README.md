@@ -75,11 +75,12 @@ BCA from Indira Gandhi National Open University in 2008 from New Delhi.
 
 ### Personal Details  
 **Address :** C/O Virsen Chauhan, Room No.4, Ground Floor , House No.114, Raipur Khadar, Sec 126, Noida.U.P.  
-**Passport No      :**T7790869  
+**Passport No      :** T7790869  
 **Interest:** Desire to learn something Special, Traveling, Listening Music, surfing Internet.  
 **Strength:** Good at team work, excellent leadership qualities, punctual & responsible, consistent hard worker.  
   
-    
-  <div align="right">**(Nikeshwar Pandey)**</div>
+  
+  
   **Place:**   Noida 
+  <div align="right"> (Nikeshwar Pandey) </div>
 
